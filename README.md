@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Vedang 👋</h1>
 
-<!--
-**vedangnandan/vedangnandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Student Developer • Creator • Future Builder
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+I build modern web apps, experiment with AI ideas, and turn imagination into real projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Passionate about coding & design
+- 🌍 Building premium interactive websites
+- 🤖 Exploring AI tools & future tech
+- 📚 Student with big ambitions
+- ⚡ Learning something new every day
+
+---
+
+## 🛠 Tech Journey
+
+```txt
+HTML      ██████████
+CSS       █████████
+JavaScript███████
+React     █████
+GitHub    ███████
+AI Tools  ████████
